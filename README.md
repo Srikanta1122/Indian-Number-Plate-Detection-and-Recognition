@@ -80,13 +80,16 @@ Install dependencies
 Go to the final_ocr1.py file 
 
 ```bash
-  First, edit the file path. give youe actual file path for model('best.pt' or 'last.pt') and input video. after that run this file. 
+  "First, edit the file path. give youe actual file path for model('best.pt' or 'last.pt') and input  
+   video. after that run this file". 
 ```
 
 Result
 
 ```bash
-  after read of the input video frame-by-frame it will return a .CSV file which contains the ['Frame_number', 'Timestamp', 'License_plate_text', 'License_plate_coordinates', 'Confidence_score'] as a column.  
+  "after read of the input video frame-by-frame it will return a .CSV file which contains the  
+  ['Frame_number', 'Timestamp', 'License_plate_text', 'License_plate_coordinates', 'Confidence_score']   
+   as a column".  
 ```
 
 ## Final Result: 
